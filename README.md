@@ -1,5 +1,5 @@
 # SlowMo
-Basic doge game with the addition of slow motion and acceleration. 
+Basic dodge game with the addition of slow motion and acceleration. 
 
 Instructions:
 
