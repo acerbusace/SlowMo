@@ -3,7 +3,8 @@ Basic dodge game with the addition of slow motion and acceleration.
 
 Instructions:
 
-* Run: "python main.py" on cmd
+* Option 1: run the main.exe file found in "dist/main" folder
+* Option 2: (Run from cmd): "python main.py"
 
 Controls:
 
