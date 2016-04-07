@@ -11,4 +11,4 @@ Controls:
 * **D** move player right
 * **Space** slow down time
 
-Game was created using Python 3.5.1 and tested and developed on windows 10.
+Game was created using Python (3.5.1 64bit) and pygame (1.9.2a0 cp35 64bit) and tested and developed on windows 10.
